@@ -1,0 +1,28 @@
+.nav-bar{
+    color: white;
+    background-color: black;
+    font-size: larger;
+   
+}
+
+.nav-bar a{
+    text-decoration: none;
+    color: white;
+}
+
+.nav-bar li{
+   list-style-type: none; 
+}
+
+.nav-bar ul{
+   display: flex;
+   justify-content: space-evenly;
+   flex-direction: row;
+   flex-wrap: wrap;
+}
+
+body{
+    font-family: "Inter", sans-serif;
+    margin: 0;
+    padding: 0;
+}
