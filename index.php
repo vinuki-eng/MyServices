@@ -12,12 +12,41 @@
         <div class="navbar-div">
             <nav class="nav-bar">
                 <ul>
-                    <li><a href="">Home</a></li>
-                    <li><a href="">About-me</a></li>
-                    <li><a href="">Services</a></li>
-                    <li><a href=""> Contact</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="#about-me">About-me</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#contact"> Contact</a></li>
                 </ul>
             </nav>
         </div>
+
+        <div class="hero-img">
+           <img src="images/hero-image2.jpg" alt="hero_image" id="hero"> </img>
+        </div>
+
+        <div id="about-me">
+           <h1>About-me</h1>
+           <p>As a student at University of Moratuwa, Information and Technology faculty, I assure that I can make your project smoother,more proffesional and more systematic keeping the raising demand of Univesity of Moratuwa.</p>
+        </div>
+
+        <div id="services">
+            <h1>Services</h1>
+             <p>
+                I provide a vast range of services including <strong>Full Stack Development, Creating Database Projects, Mobile Development, Coding (java,C++),Doing University Projects, Robotics and Craeting Algorithms</strong>.
+             </p>
+        </div>
+
+        <div class="footer">
+            <div class="social-media-logo">
+
+            </div>
+              <div class="">
+                
+            </div>
+              <div class="">
+                
+            </div>
+        </div>
+
     </body>
 </html>
