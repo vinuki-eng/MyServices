@@ -21,7 +21,7 @@
         </div>
 
         <div class="hero-img">
-           <img src="images/hero-image2.jpg" alt="hero_image" id="hero"> </img>
+           <img src="images/p1.jpg" alt="hero_image" id="hero"> </img>
         </div>
 
         <div id="about-me">
