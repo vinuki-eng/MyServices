@@ -24,16 +24,28 @@
            <img src="images/p1.jpg" alt="hero_image" id="hero"> </img>
         </div>
 
-        <div id="about-me">
+        <div id="about-me" class="about_services">
+            <div>
+            <img src="images/me.jpg" alt="about-me" class="img-content" id="about-img"></img>
+           </div>
+            <div class="content">
            <h1>About-me</h1>
            <p>As a student at University of Moratuwa, Information and Technology faculty, I assure that I can make your project smoother,more proffesional and more systematic keeping the raising demand of Univesity of Moratuwa.</p>
+           </div>
         </div>
 
-        <div id="services">
+        <div id="services" class="about_services">
+              <div class="content" >
             <h1>Services</h1>
              <p>
                 I provide a vast range of services including <strong>Full Stack Development, Creating Database Projects, Mobile Development, Coding (java,C++),Doing University Projects, Robotics and Craeting Algorithms</strong>.
              </p>
+            </div>
+
+            <div>
+            <img src="images/p4.jpg" alt="services" id="services-img" class="img-content"></img>
+         </div>
+             
         </div>
 
         <div class="footer">
