@@ -15,7 +15,7 @@
                     <li><a href="index.php">Home</a></li>
                     <li><a href="#about-me">About-me</a></li>
                     <li><a href="#services">Services</a></li>
-                    <li><a href="#contact"> Contact</a></li>
+                    <li><a href=".contact"> Contact</a></li>
                 </ul>
             </nav>
         </div>
@@ -35,7 +35,7 @@
         </div>
 
         <div id="services" class="about_services">
-              <div class="content" >
+              <div class="content">
             <h1>Services</h1>
              <p>
                 I provide a vast range of services including <strong>Full Stack Development, Creating Database Projects, Mobile Development, Coding (java,C++),Doing University Projects, Robotics and Craeting Algorithms</strong>.
@@ -50,13 +50,34 @@
 
         <div class="footer">
             <div class="social-media-logo">
-
+                <img src="images/facebook(1).png" alt="facebook"  ></img>
+                 <img src="images/insta.png" alt="facebook" ></img>
+                  <img src="images/tiktok.png" alt="facebook" ></img>
             </div>
-              <div class="">
-                
+              <div class="quick-links">
+                <h1>Quick Links</h1>
+                <ul class="list">
+                    <li><a href="index.php">Home<a></li>
+                    <li><a href="#about-me">About-me<a></li>
+                    <li><a href="#services">Services<a></li>
+                    <li><a href=".contact">Contact<a></li>
+               </ul>
             </div>
-              <div class="">
-                
+            <div class="capabilities">
+                <h1>Capabilities</h1>
+                <ul class="list">
+                    <li>Full Stack Development</li>
+                    <li>Creating Database Projects</li>
+                    <li> Mobile Development</li>
+                    <li>Coding (java,C++)</li>
+                    <li>Doing University Projects</li>
+                    <li>Robotics and Craeting Algorithms</li>
+                </ul>
+            </div>
+              <div class="contact">
+                <h1>Contact Us</h1>
+                <h3>vinuitmora@gmail.com</h3>
+                <h3>+94715682258</h3>
             </div>
         </div>
 
