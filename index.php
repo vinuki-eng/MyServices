@@ -50,17 +50,17 @@
 
         <div class="footer">
             <div class="social-media-logo">
-                <img src="images/facebook(1).png" alt="facebook"  ></img>
-                 <img src="images/insta.png" alt="facebook" ></img>
-                  <img src="images/tiktok.png" alt="facebook" ></img>
+                <a href=""><img src="images/facebook(1).png" alt="facebook"  ></img></a>
+                 <a href=""><img src="images/insta.png" alt="facebook" ></img></a>
+                 <a href=""> <img src="images/tiktok.png" alt="facebook" ></img></a>
             </div>
               <div class="quick-links">
                 <h1>Quick Links</h1>
                 <ul class="list">
-                    <li><a href="index.php">Home<a></li>
-                    <li><a href="#about-me">About-me<a></li>
-                    <li><a href="#services">Services<a></li>
-                    <li><a href=".contact">Contact<a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="#about-me">About-me</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href=".contact">Contact</a></li>
                </ul>
             </div>
             <div class="capabilities">
