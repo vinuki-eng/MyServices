@@ -9,6 +9,9 @@
         </title>
     </head>
     <body>
+         
+          <button class="button"><a href="">BOOK NOW</a></button>
+      
         <div class="navbar-div">
             <nav class="nav-bar">
                 <ul>
@@ -18,6 +21,7 @@
                     <li><a href=".contact"> Contact</a></li>
                 </ul>
             </nav>
+             
         </div>
 
         <div class="hero-img">

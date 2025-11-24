@@ -8,6 +8,7 @@
     padding:2% 0%;
 }
 
+
  a{
     text-decoration: none;
     color: white;
@@ -92,6 +93,31 @@ p{
     width: 49vw;
     height: 100%;
 }
+
+.button{
+    position: fixed;
+    background-color: black;
+    top: 25%;
+    left: 85%;
+    width:10% ;
+    height: 15%;
+    font-size:x-large;
+    border-radius: 50%;
+    padding:1%;
+    transition: all 0.3s ease;
+}
+
+.button a{
+    text-decoration: none;
+}
+
+.button:hover{
+    transform: scale(1.1);
+    box-shadow:0 6px 20px 2px darkgreen;
+}
+
+
+
 
 @media(max-width:2000px){
     .about_services{
