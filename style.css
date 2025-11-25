@@ -106,11 +106,7 @@ p{
     box-shadow:0 6px 20px 2px darkgreen;
 }
 
-
-
-
-
-@media(max-width:2000px){
+@media(max-width:3000px){
     .about_services{
        font-size: xx-large;
     }
@@ -126,6 +122,18 @@ p{
     }
 }
 
+@media(max-width:1300px){
+    #about-img{
+         width:51.4vw; 
+        height: 100%;
+    }
+
+    #services-img{
+        width: 48.5vw;
+        height: 100%;
+    }
+}
+
 @media(max-width:760px){
    .about_services{
        font-size: x-large;
@@ -137,7 +145,7 @@ p{
     }
 
     #services-img{
-         width:51vw; 
+         width:50vw; 
         height: 100%;
     }  
 }
