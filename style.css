@@ -51,7 +51,7 @@ html{
 
 .content{
     display:block;
-     margin-left: 5vw;
+    margin-left: 5vw;
 }
 
 p{
@@ -79,19 +79,9 @@ p{
 
 .about_services{
      display: flex;
+     justify-content: space-between;
      flex-wrap: wrap;
-     margin: 0%;
-}
-
-#about-img{
-    width: 50vw;
-    height: 100%;
-}
-
-#services-img{
-    margin-left: 5vw;
-    width: 49vw;
-    height: 100%;
+     margin-right: 0px;
 }
 
 .button{
@@ -119,9 +109,42 @@ p{
 
 
 
+
 @media(max-width:2000px){
     .about_services{
        font-size: xx-large;
     }
+
+    #about-img{
+         width:51.4vw; 
+        height: 100%;
+    }
+
+    #services-img{
+        width: 47.5vw;
+        height: 100%;
+    }
 }
+
+@media(max-width:760px){
+   .about_services{
+       font-size: x-large;
+    }
+
+    #about-img{
+         width:50vw; 
+        height: 100%;
+    }
+
+    #services-img{
+         width:51vw; 
+        height: 100%;
+    }  
+}
+
+@media(max-width:400px){
+
+}
+
+
 

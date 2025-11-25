@@ -10,7 +10,7 @@
     </head>
     <body>
          
-          <button class="button"><a href="">BOOK NOW</a></button>
+        <button class="button"><a href="">BOOK NOW</a></button>
       
         <div class="navbar-div">
             <nav class="nav-bar">
@@ -39,7 +39,7 @@
         </div>
 
         <div id="services" class="about_services">
-              <div class="content">
+              <div class="content" id="services-content">
             <h1>Services</h1>
              <p>
                 I provide a vast range of services including <strong>Full Stack Development, Creating Database Projects, Mobile Development, Coding (java,C++),Doing University Projects, Robotics and Craeting Algorithms</strong>.
@@ -55,8 +55,8 @@
         <div class="footer">
             <div class="social-media-logo">
                 <a href=""><img src="images/facebook(1).png" alt="facebook"  ></img></a>
-                 <a href=""><img src="images/insta.png" alt="facebook" ></img></a>
-                 <a href=""> <img src="images/tiktok.png" alt="facebook" ></img></a>
+                 <a href=""><img src="images/insta.png" alt="instagram" ></img></a>
+                 <a href=""> <img src="images/tiktok.png" alt="tik-tok" ></img></a>
             </div>
               <div class="quick-links">
                 <h1>Quick Links</h1>
